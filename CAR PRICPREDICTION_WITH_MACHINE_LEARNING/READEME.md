@@ -11,7 +11,6 @@
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
-- [Author](#Author)
 
 ## Project Overview
 This project, titled "Car Price Prediction," is a data science project focused on predicting the selling prices of used cars. The project involves data loading, preprocessing, exploratory data analysis, data encoding, modeling, evaluation, and visualization.
@@ -51,6 +50,3 @@ Make sure you have the following dependencies installed:
 - Clone the project repository to your local machine.
 - Open Jupyter Notebook and run the project's notebook to see the code and results.
 - Modify or enhance the code as needed for your own analysis.
-
-## Author
-Hassan Anwar.
