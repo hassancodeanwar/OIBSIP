@@ -80,8 +80,4 @@ Hassan Anwar
 
 ## Contact Information
 
-For inquiries or feedback, please contact [Your Name] at [Your Email Address].
-
----
-
-Feel free to customize this README to fit the specific details of your project. Include any additional sections or information that you think would be valuable for users or contributors.
+For inquiries or feedback, please contact Hassan Anwar at code211944@gmail.com.
