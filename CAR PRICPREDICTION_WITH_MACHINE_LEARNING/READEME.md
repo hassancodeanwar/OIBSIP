@@ -17,7 +17,6 @@ This project, titled "Car Price Prediction," is a data science project focused o
 
 ## Project Author
 - Author: Hassan Anwar
-- Internship at Oasis Infobyte
 
 ## Data Loading and Preprocessing
 - Data was loaded from a CSV file containing information about cars, including features like car name, year, selling price, present price, driven kilometers, fuel type, selling type, transmission, and owner.
