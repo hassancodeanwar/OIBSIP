@@ -77,7 +77,6 @@ Hassan Anwar
 ## Acknowledgments
 
 - SMS Spam Collection Dataset: [Link](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
-- Wordcloud library: [Link](https://github.com/amueller/word_cloud)
 
 ## Contact Information
 
